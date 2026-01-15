@@ -10,6 +10,7 @@ Gosto de entender como as aplicações funcionam de ponta a ponta, desde o banco
 
 ## 🚀 Tecnologias
 
+
 ### Back-end
 
 - Java
@@ -26,6 +27,7 @@ Gosto de entender como as aplicações funcionam de ponta a ponta, desde o banco
 
 ## 📚 Atualmente estudando
 
+
 - Arquitetura de APIs REST
 - Integração front-end e back-end
 - Boas práticas em projetos full-stack
@@ -33,6 +35,7 @@ Gosto de entender como as aplicações funcionam de ponta a ponta, desde o banco
 ---
 
 ## 📫 Contato
+
 
 - LinkedIn: https://www.linkedin.com/in/renan-merlotti/
 - Email: renanmerlotti@gmail.com

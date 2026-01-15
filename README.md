@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou o Renan 👋
 
-<!--
-**renanmerlotti/renanmerlotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo com **desenvolvimento full-stack**.  
+Gosto de entender como as aplicações funcionam de ponta a ponta, desde o banco de dados até a interface.
+
+---
+
+## 🚀 Tecnologias
+
+### Back-end
+
+- Java
+- APIs REST
+- MySQL
+
+### Front-end
+
+- React
+- JavaScript
+- TailWind
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura de APIs REST
+- Integração front-end e back-end
+- Boas práticas em projetos full-stack
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/renan-merlotti/
+- Email: renanmerlotti@gmail.com

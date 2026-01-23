@@ -1,4 +1,4 @@
-# Olá, eu sou o Renan 👋
+# Olá, eu sou o Renan
 
 
 
@@ -8,7 +8,7 @@ Gosto de entender como as aplicações funcionam de ponta a ponta, desde o banco
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 
 ### Back-end
@@ -25,7 +25,7 @@ Gosto de entender como as aplicações funcionam de ponta a ponta, desde o banco
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 
 - Arquitetura de APIs REST
@@ -34,7 +34,7 @@ Gosto de entender como as aplicações funcionam de ponta a ponta, desde o banco
 
 ---
 
-## 📫 Contato
+##  Contato
 
 
 - LinkedIn: https://www.linkedin.com/in/renan-merlotti/

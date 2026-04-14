@@ -31,6 +31,7 @@ Gosto de entender como as aplicações funcionam de ponta a ponta, desde o banco
 - Arquitetura de APIs REST
 - Integração front-end e back-end
 - Boas práticas em projetos full-stack
+- Docker
 
 ---
 

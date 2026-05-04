@@ -31,14 +31,6 @@ Full Stack Developer focused on **Java Spring Boot** and **React**, currently pu
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
-<div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=renanmerlotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmerlotti&layout=compact&theme=dark&hide_border=true"/>
-
-</div>
 
 ---
 

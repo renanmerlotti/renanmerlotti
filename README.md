@@ -34,7 +34,7 @@ Full Stack Developer focused on **Java Spring Boot** and **React**, currently pu
 ---
 
 <div align="center">
-  [Teste](https://spotifystatus-sepia.vercel.app/api/orchestrator)
+  [![Spotify](https://spotifystatus-sepia.vercel.app/api/orchestrator)](https://open.spotify.com/user/snakeg000d)
 </div>
 
 

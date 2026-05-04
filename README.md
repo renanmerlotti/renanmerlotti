@@ -31,6 +31,12 @@ Full Stack Developer focused on **Java Spring Boot** and **React**, currently pu
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
+
+<div align="center">
+  [![Spotify](https://spotifystatus-sepia.vercel.app/api/orchestrator)](https://open.spotify.com/user/renanmerlotti)
+</div>
+
 
 ---
 
